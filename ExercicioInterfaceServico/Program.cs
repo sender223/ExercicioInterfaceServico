@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace ExercicioInterfaceServico {
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
